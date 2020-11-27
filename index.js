@@ -1,1 +1,3 @@
-console.log("hello world");
+const Sort = require("./Core/push_swap/main");
+
+Sort.pushSwap();
