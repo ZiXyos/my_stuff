@@ -1,0 +1,32 @@
+ OS
+# ===========
+.DS_Store
+ehthumbs.db
+Thumbs.db
+.env
+TODO.md
+mongodb.conf
+
+# Node and related ecosystem
+# ==========================
+.nodemonignore
+.sass-cache/
+node_modules/
+public/lib/
+app/tests/coverage/
+.bower-*/
+.idea/
+coverage/
+data
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+#env
+
+.env
